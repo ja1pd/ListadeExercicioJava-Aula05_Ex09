@@ -55,7 +55,6 @@ public class App {
                     System.out.println("Opção inválida!");
             }
 
-            System.out.println();
         }
 
         entrada.close();
